@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\CSharpEgitimKampi\Variables\bin\Debug\Variables.exe.config
+C:\Users\furka\source\repos\CSharpEgitimKampi\Variables\bin\Debug\Variables.exe
+C:\Users\furka\source\repos\CSharpEgitimKampi\Variables\bin\Debug\Variables.pdb
+C:\Users\furka\source\repos\CSharpEgitimKampi\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\CSharpEgitimKampi\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\CSharpEgitimKampi\Variables\obj\Debug\Variables.exe
+C:\Users\furka\source\repos\CSharpEgitimKampi\Variables\obj\Debug\Variables.pdb
