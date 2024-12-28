@@ -94,7 +94,7 @@ namespace Variables
             passengerIdentityNumber = Console.ReadLine();
 
             Console.WriteLine("-----------------------");
-            Console.WriteLine("Yolcu TC Kimlik No:"+passengerName+" "+passengerSurname+" "+passengerDistrict+" / "+passengerCity+" "+passengerAge);
+            Console.WriteLine("Yolcu TC Kimlik No:"+passengerIdentityNumber + " - Yolcu Ad Soyad: "+ passengerName + " " +passengerSurname+ " " +passengerDistrict+ " / "+passengerCity+" "+passengerAge);
 
 
 
